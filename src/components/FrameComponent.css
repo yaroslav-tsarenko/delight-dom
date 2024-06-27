@@ -1,0 +1,83 @@
+.business-personalize-a {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.add-your-logo {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 500;
+}
+.business-personalization-headi {
+  width: 378px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: calc(100% - 426px);
+  flex-shrink: 0;
+}
+.gc-uk-homepage-banner-cadeauti-icon {
+  margin-top: -91px;
+  height: 425px;
+  flex: 1;
+  position: relative;
+  border-radius: 0 16px 16px 0;
+  max-width: calc(100% - 402px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.business-personalization-headi-parent {
+  height: 360px;
+  flex: 1;
+  border-radius: 40px;
+  background-color: #ebebeb;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 62px 0 63px 24px;
+  box-sizing: border-box;
+  gap: 24px;
+  min-width: 538px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #262626;
+  font-family: Inter;
+}
+@media screen and (max-width: 825px) {
+  .business-personalize-a {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .business-personalization-headi {
+    max-width: 100%;
+  }
+  .gc-uk-homepage-banner-cadeauti-icon {
+    display: none;
+  }
+  .business-personalization-headi-parent {
+    padding-top: 40px;
+    padding-bottom: 41px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .business-personalize-a {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .business-personalization-headi {
+    gap: 16px;
+  }
+}

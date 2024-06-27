@@ -1,0 +1,415 @@
+.background5 {
+  height: 8px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  top: 50px;
+  left: 0;
+  border-radius: 4px;
+  background-color: #262626;
+}
+.heading-2 {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.image-icon {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  object-fit: cover;
+  z-index: 1;
+}
+.background6 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #e5d9c4;
+}
+.link1 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 24px;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 27px;
+}
+.imageshadow-icon1 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow1 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background7 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #378bc8;
+}
+.hotel-gift-card {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+.background-parent,
+.featured-card-titles {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.featured-card-titles {
+  flex-direction: row;
+  padding: 0 24px;
+}
+.background-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26px;
+}
+.background-icon2 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.link2 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 24px;
+  left: 345.5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.image-icon1 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  object-fit: cover;
+  z-index: 1;
+}
+.background8 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #e5d9c4;
+}
+.card,
+.restaurant-gift {
+  margin: 0;
+}
+.restaurant-gift-card-container {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+}
+.background-icon3 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.background-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.link3,
+.restaurant-gift-card-parent {
+  width: 274px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.link3 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 24px;
+  left: 1036.5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  align-items: flex-end;
+  gap: 27px;
+}
+.imageshadow-icon2 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow2 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background9 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #eac57d;
+}
+.costa-gift-card {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.background-group,
+.costa-gift-card-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.costa-gift-card-wrapper {
+  flex-direction: row;
+  padding: 0 24px;
+}
+.background-group {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26px;
+}
+.background-icon4 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.link4 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 388px;
+  left: 691px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.imageshadow-icon3 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow3 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background10 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #378bc8;
+}
+.hotel-gift-card1 {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+.frame-div,
+.hotel-gift-card-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hotel-gift-card-wrapper {
+  flex-direction: row;
+  padding: 0 24px;
+}
+.frame-div {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26px;
+}
+.background-icon5 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.link5 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 388px;
+  left: 1382px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.featured-card-links {
+  align-self: stretch;
+  height: 696px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.featured-view-all {
+  width: 200px;
+  height: 46px;
+}
+.featured-cards {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  font-size: 24px;
+}
+.featured,
+.featured-container,
+.featured-content {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.featured-content {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 52px;
+}
+.featured,
+.featured-container {
+  flex-direction: row;
+}
+.featured-container {
+  width: 1680px;
+  justify-content: flex-start;
+  position: relative;
+}
+.featured {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 32px;
+  color: #0f0a1b;
+  font-family: Inter;
+}
+@media screen and (max-width: 1275px) {
+  .featured {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .heading-2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .featured-cards {
+    gap: 16px;
+  }
+  .featured-content {
+    gap: 26px;
+  }
+  .featured {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .costa-gift-card,
+  .heading-2,
+  .hotel-gift-card,
+  .hotel-gift-card1,
+  .restaurant-gift-card-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

@@ -1,0 +1,73 @@
+.women-cards-top {
+  align-self: stretch;
+  height: 235px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.top-10-gift {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+}
+.women-cards-bottom {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.are-you-seeking {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.are-you-seeking-the-perfect-gi-wrapper,
+.gender-card-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.are-you-seeking-the-perfect-gi-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 24px;
+  font-size: 16px;
+}
+.gender-card-container {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background-color: #ebebeb;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 103px;
+  gap: 25px;
+  text-align: left;
+  font-size: 32px;
+  color: #0f0a1b;
+  font-family: Inter;
+}
+@media screen and (max-width: 825px) {
+  .top-10-gift {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .gender-card-container {
+    padding-bottom: 67px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .top-10-gift {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

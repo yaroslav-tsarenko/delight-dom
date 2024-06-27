@@ -1,0 +1,199 @@
+.logo-icon {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  object-fit: cover;
+}
+.container {
+  align-self: stretch;
+  height: 24px;
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 17.2px;
+  color: #0f0a1b;
+}
+.container-wrapper {
+  width: 123.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+  box-sizing: border-box;
+}
+.redeem-choice-gift {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.link-wrapper,
+.link14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.link-wrapper {
+  flex-direction: column;
+  padding: 18px 0 0;
+}
+.choice-gift-card1 {
+  text-decoration: none;
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  color: inherit;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.link15 {
+  flex-direction: row;
+  padding: 0;
+}
+.choice-gift-card-link,
+.link-wrapper1,
+.link15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-wrapper1 {
+  flex-direction: column;
+  padding: 18px 0 0;
+}
+.choice-gift-card-link {
+  flex-direction: row;
+  gap: 37px;
+  max-width: 100%;
+}
+.business1 {
+  text-decoration: none;
+  position: relative;
+  line-height: 22px;
+  color: inherit;
+  display: inline-block;
+  min-width: 67px;
+  flex-shrink: 0;
+}
+.customer-service-wrapper,
+.link16 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.customer-service-wrapper {
+  flex-direction: column;
+  padding: 1px 0 0;
+}
+.customer-service {
+  text-decoration: none;
+  position: relative;
+  line-height: 22px;
+  color: inherit;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.customer-service-wrapper1,
+.link17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.customer-service-wrapper1 {
+  flex-direction: column;
+  padding: 1px 0 0;
+  font-size: 15.8px;
+}
+.link-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.customer-service-link {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.business-link {
+  width: 294.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+  box-sizing: border-box;
+  font-size: 15.9px;
+}
+.component-1-child,
+.nav {
+  align-self: stretch;
+  font-family: Inter;
+}
+.nav {
+  background-color: #ebebeb;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 11px 20px;
+  box-sizing: border-box;
+  gap: 737px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: left;
+  font-size: 17.4px;
+  color: #0f0a1b;
+}
+.component-1-child {
+  border: 0;
+  background-color: transparent;
+  height: 86px;
+  font-size: 17.9px;
+  color: #fff;
+}
+.component-1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+@media screen and (max-width: 1275px) {
+  .nav {
+    gap: 368px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .redeem-choice-gift {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  .choice-gift-card-link {
+    gap: 18px;
+  }
+  .nav {
+    gap: 184px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .nav {
+    gap: 92px;
+  }
+}

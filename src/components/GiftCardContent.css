@@ -1,0 +1,163 @@
+.gift-card-content-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d9d9d9;
+  box-sizing: border-box;
+}
+.image-icon4 {
+  height: 64.6px;
+  width: 100px;
+  position: relative;
+  border-radius: 8px;
+  object-fit: cover;
+}
+.gift-card-120 {
+  white-space: pre-wrap;
+}
+.gift-card-120,
+.worth-usd-400 {
+  width: 179px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.gift-card-value {
+  width: 284px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+}
+.credits,
+.plus-minus-spacer {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.plus-minus-spacer {
+  min-width: 71px;
+  white-space: nowrap;
+}
+.credits {
+  min-width: 87px;
+}
+.quantity-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icon-plus {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plus-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.button-spacer {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 12px;
+}
+.minus-button {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.plus-button {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px;
+  gap: 26px;
+}
+.hourly-control {
+  align-self: stretch;
+  height: 38px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 18px;
+  color: #fff;
+}
+.quantity-button-container {
+  width: 115px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.quantity-control {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 90px 0 0;
+  box-sizing: border-box;
+  min-width: 202px;
+  max-width: 100%;
+  gap: 20px;
+}
+.gift-card-spacer {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 71px;
+  white-space: nowrap;
+}
+.card-image,
+.gift-card-content1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-image {
+  width: 900px;
+  flex-direction: row;
+  gap: 15px;
+}
+.gift-card-content1 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 35px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .card-image {
+    flex-wrap: wrap;
+  }
+  .gift-card-content1 {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .quantity-control {
+    flex-wrap: wrap;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

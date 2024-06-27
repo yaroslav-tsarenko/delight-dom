@@ -1,0 +1,525 @@
+.all-gift-cards,
+.gift-ideas {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 82px;
+}
+.all-gift-cards {
+  line-height: 22px;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+  min-width: 108px;
+}
+.link18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 1.5px;
+  font-size: 18px;
+}
+.choice-gift-card2 {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.link19 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+}
+.blogs {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 47px;
+}
+.business-gift-ideas,
+.business-links,
+.link20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link20 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0.5px;
+}
+.business-gift-ideas,
+.business-links {
+  flex-direction: column;
+}
+.business-links {
+  align-self: stretch;
+  gap: 7.5px;
+  font-size: 17.7px;
+}
+.business-gift-ideas {
+  flex: 1;
+  gap: 23.5px;
+  min-width: 213px;
+  max-width: 100%;
+}
+.business2 {
+  font-weight: 600;
+  display: inline-block;
+  min-width: 76px;
+}
+.business-possibilities,
+.business2 {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.link21 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+}
+.quote-within-one {
+  position: relative;
+  line-height: 24px;
+}
+.link22 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  font-size: 17.7px;
+}
+.personalised-gifts {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.link23 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0.5px;
+}
+.business-gift-ideas1,
+.footer-navigation,
+.link-parent,
+.link23 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 7.5px;
+  font-size: 17.9px;
+}
+.business-gift-ideas1,
+.footer-navigation {
+  flex: 1;
+  max-width: 100%;
+}
+.business-gift-ideas1 {
+  flex-direction: column;
+  gap: 23.5px;
+  min-width: 213px;
+  font-size: 17.2px;
+}
+.footer-navigation {
+  flex-direction: row;
+  min-width: 426px;
+  row-gap: 20px;
+}
+.contact-us2,
+.customer-service1 {
+  position: relative;
+  line-height: 24px;
+}
+.customer-service1 {
+  font-weight: 600;
+}
+.contact-us2 {
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 93px;
+}
+.link24 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+}
+.order-gift-card {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 124px;
+}
+.link25 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+}
+.redeem-choice-gift1 {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.link26 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  z-index: 1;
+  font-size: 17.7px;
+}
+.shipping-and-delivery {
+  position: relative;
+  line-height: 24px;
+}
+.link27 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  font-size: 17.7px;
+}
+.frequently-asked-questions {
+  position: relative;
+  line-height: 24px;
+}
+.link28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  font-size: 17.7px;
+}
+.order-in-the {
+  position: relative;
+  line-height: 24px;
+}
+.link29 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+}
+.order-in-belgium {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.customer-service-links,
+.customer-service-parent,
+.link30 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link30 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 1px 0 1.5px;
+  font-size: 18px;
+}
+.customer-service-links,
+.customer-service-parent {
+  flex-direction: column;
+}
+.customer-service-links {
+  align-self: stretch;
+  gap: 7.5px;
+  font-size: 17.9px;
+}
+.customer-service-parent {
+  width: 328px;
+  gap: 23.5px;
+  max-width: 100%;
+  font-size: 17.3px;
+}
+.most-popular-gift {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.all-in-1-choice-gift1 {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.link31 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  z-index: 1;
+}
+.restaurant-gift-card {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.link32 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 1.5px;
+  z-index: 1;
+  font-size: 18px;
+}
+.beauty-fashion1 {
+  position: relative;
+  line-height: 24px;
+}
+.link33 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 35px 0.5px 0;
+  z-index: 2;
+}
+.national-garden-gift {
+  position: relative;
+  line-height: 24px;
+}
+.link34 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  z-index: 1;
+}
+.inspire-travelcard-gift {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.link35 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  z-index: 1;
+}
+.costa-gift-card2 {
+  position: relative;
+  line-height: 24px;
+}
+.link36,
+.most-popular-gift-cards-parent,
+.popular-links {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link36 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0.5px;
+  z-index: 1;
+  font-size: 17.7px;
+}
+.most-popular-gift-cards-parent,
+.popular-links {
+  flex-direction: column;
+}
+.popular-links {
+  align-self: stretch;
+  gap: 7.5px;
+  font-size: 17.9px;
+}
+.most-popular-gift-cards-parent {
+  width: 328px;
+  gap: 23.5px;
+  max-width: 100%;
+}
+.container1,
+.section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.container1 {
+  width: 1440px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 48px 64px 96px;
+  box-sizing: border-box;
+  row-gap: 20px;
+}
+.section {
+  align-self: stretch;
+  background-color: #262626;
+  justify-content: center;
+  text-align: left;
+  font-size: 17.4px;
+  color: #fff;
+  font-family: Inter;
+}
+.logo-icon1 {
+  margin-top: -18px;
+  height: 60px;
+  width: 60px;
+  position: relative;
+  object-fit: cover;
+}
+.terms-and-conditions {
+  position: relative;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: inherit;
+  text-decoration: none;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.link37 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.privacy {
+  position: relative;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 59px;
+  flex-shrink: 0;
+}
+.link38,
+.section2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link38 {
+  padding: 0;
+  font-size: 14px;
+}
+.section2 {
+  height: 48px;
+  padding: 12px 24px 12px 0;
+  box-sizing: border-box;
+  gap: 22px;
+  max-width: 100%;
+}
+.section3 {
+  position: relative;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.section-copyright-2024-gif-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+  font-size: 13.6px;
+}
+.footer,
+.section1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.section1 {
+  background-color: #c6c6c6;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 318px 24px 304px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.footer {
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 13.9px;
+  color: #262626;
+  font-family: Inter;
+}
+@media screen and (max-width: 1275px) {
+  .container1 {
+    padding-left: 32px;
+    padding-right: 32px;
+    box-sizing: border-box;
+  }
+  .section1 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .section1 {
+    padding-left: 152px;
+    padding-right: 159px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .footer-navigation {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .section1 {
+    padding-left: 76px;
+    padding-right: 79px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .container1 {
+    padding-top: 31px;
+    padding-bottom: 62px;
+    box-sizing: border-box;
+  }
+}

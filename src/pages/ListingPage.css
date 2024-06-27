@@ -1,0 +1,115 @@
+.endless-joy,
+.one-gift-multiple {
+  margin: 0;
+}
+.one-gift-multiple-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.their-way-this,
+.with-100s-of {
+  margin: 0;
+}
+.with-100s-of-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.banner-content,
+.one-gift-multiple-options-en-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.one-gift-multiple-options-en-parent {
+  gap: 26px;
+}
+.banner-content {
+  padding: 97px 0 0;
+  box-sizing: border-box;
+  min-width: 486px;
+}
+.us-woc20banner20image-20des-icon {
+  height: 340px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 734px;
+}
+.hero-banner,
+.listingpage {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hero-banner {
+  align-self: stretch;
+  background-color: #f6f7f9;
+  flex-direction: row;
+  padding: 80px 120px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Inter;
+}
+.listingpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1525px) {
+  .banner-content {
+    flex: 1;
+  }
+  .hero-banner {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .us-woc20banner20image-20des-icon {
+    min-width: 100%;
+  }
+  .hero-banner {
+    gap: 32px;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .one-gift-multiple-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .banner-content {
+    min-width: 100%;
+  }
+  .hero-banner {
+    gap: 16px;
+    padding: 52px 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .one-gift-multiple-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

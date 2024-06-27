@@ -1,0 +1,740 @@
+.heading-23 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.background13 {
+  height: 8px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #262626;
+}
+.heading-2-most-frequently-ch-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 20px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.image-icon2 {
+  height: 160px;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.imageshadow-icon4 {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.141);
+}
+.wrapper-imageshadow4 {
+  height: 156px;
+  width: 241px;
+  position: absolute;
+  margin: 0 !important;
+  top: -24px;
+  right: 32px;
+  border-radius: 16px;
+  flex-shrink: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-outer-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.all-in-1-choice-gift {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+.card-outer-container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.the-right-choice {
+  position: relative;
+  line-height: 22px;
+}
+.background-icon6 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.choice-card-background-contain {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 0 0;
+}
+.the-right-choice-for-everyone-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.choice-card-content,
+.link6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.choice-card-content {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 24px;
+  box-sizing: border-box;
+  font-size: 15.8px;
+  color: #65626d;
+}
+.link6 {
+  width: 828px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  flex-direction: column;
+  gap: 25.5px;
+}
+.image-icon3 {
+  height: 160px;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.imageshadow-icon5 {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.141);
+}
+.wrapper-imageshadow5 {
+  height: 156px;
+  width: 241px;
+  position: absolute;
+  margin: 0 !important;
+  top: -24px;
+  right: 20px;
+  border-radius: 16px;
+  flex-shrink: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.virgin-experience-days {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.virgin-experience-days-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px;
+}
+.more-than-4000 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.background-icon7 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.background-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 0 0;
+}
+.more-than-4000-experiences-to-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.link-inner,
+.link7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 24px;
+  box-sizing: border-box;
+  font-size: 15.8px;
+  color: #65626d;
+}
+.link7 {
+  width: 828px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 852px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  flex-direction: column;
+  gap: 25.5px;
+}
+.imageshadow-icon6 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow6 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background14 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #fdafaf;
+}
+.airbnb-gift-card {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.background-icon8 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.card-background-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.airbnb-gift-card-parent,
+.link8 {
+  width: 274px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.link8 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 368px;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  align-items: flex-end;
+  gap: 26px;
+}
+.imageshadow-icon7 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow7 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background15 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #5cb6c1;
+}
+.primark-gift-card {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.background-parent1,
+.primark-gift-card-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.primark-gift-card-wrapper {
+  flex-direction: row;
+  padding: 0 24px;
+}
+.background-parent1 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26px;
+}
+.background-icon9 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.link9 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 368px;
+  left: 345.5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.imageshadow-icon8 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow8 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background16 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #e8e8e8;
+}
+.adidas-gift-card {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.adidas-gift-card-wrapper,
+.background-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.adidas-gift-card-wrapper {
+  flex-direction: row;
+  padding: 0 24px;
+}
+.background-parent2 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26px;
+}
+.background-icon10 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.link10 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 368px;
+  left: 1036.5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.imageshadow-icon9 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow9 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background17 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #ffeb0a;
+}
+.ikea-gift-card {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.background-parent3,
+.ikea-gift-card-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ikea-gift-card-wrapper {
+  flex-direction: row;
+  padding: 0 24px;
+}
+.background-parent3 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26px;
+}
+.background-icon11 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.link11 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 368px;
+  left: 1382px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.imageshadow-icon10 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow10 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background18 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #a3adb8;
+}
+.link12 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 732px;
+  left: 345.5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 27px;
+}
+.imageshadow-icon11 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow11 {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background19 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #eac57d;
+}
+.costa-gift-card1 {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.background-parent4,
+.costa-gift-card-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.costa-gift-card-container {
+  flex-direction: row;
+  padding: 0 24px;
+}
+.background-parent4 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26px;
+}
+.background-icon12 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.link13 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 732px;
+  left: 1036.5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.popular-cards {
+  align-self: stretch;
+  height: 1016px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  max-width: 100%;
+  font-size: 24px;
+}
+.cards-highlight-container-child {
+  width: 183px;
+  height: 46px;
+}
+.card-highlight,
+.cards-highlight-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.cards-highlight-container {
+  width: 1680px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.card-highlight {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #0f0a1b;
+  font-family: Inter;
+}
+@media screen and (max-width: 1275px) {
+  .card-highlight {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .heading-23 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .cards-highlight-container {
+    gap: 16px;
+  }
+  .card-highlight {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-23 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .all-in-1-choice-gift {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .the-right-choice-for-everyone-parent {
+    flex-wrap: wrap;
+  }
+  .virgin-experience-days {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .more-than-4000-experiences-to-parent {
+    flex-wrap: wrap;
+  }
+  .adidas-gift-card,
+  .airbnb-gift-card,
+  .costa-gift-card1,
+  .ikea-gift-card,
+  .primark-gift-card {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .popular-cards {
+    height: auto;
+    min-height: 1016;
+  }
+}

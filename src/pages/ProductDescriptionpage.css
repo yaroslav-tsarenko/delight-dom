@@ -1,0 +1,653 @@
+.image-5-icon {
+  position: absolute;
+  top: calc(50% - 196.5px);
+  left: calc(50% - 313px);
+  border-radius: 20px;
+  width: 626px;
+  height: 392px;
+  object-fit: cover;
+}
+.background {
+  height: 813px;
+  flex: 1;
+  position: relative;
+  border-radius: 0 16px 16px 0;
+  background-color: #eee;
+  min-width: 624px;
+  max-width: 100%;
+}
+.background1 {
+  height: 8px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  top: 69px;
+  left: 0;
+  border-radius: 4px;
+  background-color: #262626;
+}
+.heading-1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.gift-card-content-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 6px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.choose-your-value {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.label,
+.label1,
+.label2,
+.label3 {
+  height: 68px;
+  width: 139.8px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+.label1,
+.label2,
+.label3 {
+  left: 155.8px;
+}
+.label2,
+.label3 {
+  left: 311.7px;
+}
+.label3 {
+  left: 467.5px;
+}
+.other {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.label4,
+.value,
+.value-buttons {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.label4 {
+  width: 608px;
+  margin: 0 !important;
+  position: absolute;
+  top: 92px;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 40px;
+  background-color: #fff;
+  border: 2px solid #c5c4c8;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+}
+.value,
+.value-buttons {
+  justify-content: flex-start;
+}
+.value-buttons {
+  align-self: stretch;
+  height: 160px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 24px 14.9px;
+  font-size: 16px;
+}
+.value {
+  width: 608px;
+  flex-direction: column;
+  padding: 0 0 6px;
+  box-sizing: border-box;
+  gap: 16px;
+  font-size: 17.2px;
+}
+.by-mail,
+.delivery-method {
+  position: relative;
+  line-height: 24px;
+}
+.delivery-method {
+  font-weight: 600;
+}
+.by-mail {
+  display: inline-block;
+  min-width: 62.4px;
+}
+.delivery-details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 54px 0 53px;
+}
+.sent-via-royal {
+  position: relative;
+  line-height: 22px;
+  color: #9f9da4;
+}
+.label5 {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 40px;
+  background-color: #fff;
+  border: 2px solid #1d1d1d;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 19px 62px;
+}
+.digital {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.digital-wrapper {
+  width: 158.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 54px 0 51px;
+  box-sizing: border-box;
+}
+.free-and-sustainable {
+  position: relative;
+  line-height: 22px;
+  color: #9f9da4;
+}
+.delivery,
+.delivery-options,
+.label6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.label6 {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 40px;
+  background-color: #fff;
+  border: 2px solid #c5c4c8;
+  flex-direction: column;
+  padding: 19px 66px 19px 69px;
+}
+.delivery,
+.delivery-options {
+  flex-direction: row;
+  gap: 12px;
+  font-size: 16px;
+}
+.delivery {
+  flex-direction: column;
+  padding: 0 0 6px;
+  box-sizing: border-box;
+  gap: 16px;
+  max-width: 100%;
+  font-size: 17.3px;
+}
+.what-kind-of {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.choose-from-1 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  color: #9f9da4;
+}
+.packaging-options {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.surprise-paars-gc-uk-envelop-1-icon {
+  height: 109px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+  z-index: 1;
+}
+.background2 {
+  width: 302px;
+  border-radius: 40px 0 0 40px;
+  background-color: #ebebeb;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24.5px 69px;
+  box-sizing: border-box;
+  min-width: 302px;
+}
+.free,
+.surprise-gift-envelope {
+  position: relative;
+  line-height: 22px;
+}
+.free {
+  color: #9f9da4;
+  display: inline-block;
+  min-width: 34px;
+}
+.envelope-name {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1px;
+}
+.button {
+  width: 100.5px;
+  flex: 1;
+}
+.envelope-details,
+.envelope-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.envelope-details {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.envelope-info {
+  height: 141px;
+  justify-content: flex-end;
+  padding: 0 0 16px;
+  box-sizing: border-box;
+  min-width: 169px;
+}
+.overlaybordershadow,
+.packaging {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  gap: 16px;
+  max-width: 100%;
+}
+.overlaybordershadow {
+  width: 608px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 40px;
+  background-color: transparent;
+  border: 2px solid #262626;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0 2px;
+  font-size: 16px;
+}
+.packaging {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 6px;
+  font-size: 18px;
+}
+.costs1,
+.div {
+  position: relative;
+  line-height: 24px;
+  font-weight: 900;
+  display: inline-block;
+  min-width: 49.1px;
+  flex-shrink: 0;
+}
+.div {
+  font-size: 15.8px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+.costs {
+  width: 608.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+  font-size: 16.5px;
+}
+.svg-icon {
+  position: absolute;
+  top: calc(50% - 2px);
+  left: calc(50% - 8px);
+  width: 16px;
+  height: 4px;
+}
+.button1 {
+  height: 64px;
+  width: 48px;
+  position: relative;
+  border-radius: 8px 0 0 8px;
+  background-color: #fff;
+  border: 1px solid #c5c4c8;
+  box-sizing: border-box;
+}
+.placeholder {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 9px;
+}
+.input {
+  background-color: #fff;
+  border-top: 1px solid #c5c4c8;
+  border-bottom: 1px solid #c5c4c8;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 19px 33px 20px 35px;
+  z-index: 1;
+}
+.button-icon {
+  align-self: stretch;
+  width: 48px;
+  position: relative;
+  border-radius: 0 8px 8px 0;
+  max-height: 100%;
+  min-height: 64px;
+  z-index: 2;
+}
+.quantity {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button2 {
+  height: 64px;
+  flex: 1;
+  min-width: 266px;
+  max-width: 100%;
+}
+.actions {
+  width: 608px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 6px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+.promotion-block-pounds007050b-icon {
+  height: 57px;
+  width: 96px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.voucher-worth-15,
+.with-every-physical {
+  margin: 0;
+}
+.with-every-physical-container1 {
+  width: 100%;
+}
+.with-every-physical-container {
+  width: 418.5px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.background3,
+.promotion {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background3 {
+  flex: 1;
+  border-radius: 8px;
+  background-color: #f5f5f6;
+  padding: 23.5px 24px 24px;
+  gap: 17px;
+}
+.promotion {
+  width: 608px;
+  padding: 0 0 6px;
+}
+.card-add-multiple,
+.card-for-an,
+.finding-the-right,
+.from-our-extensive,
+.give-them-is,
+.needs-to-redeem {
+  margin: 0;
+}
+.finding-the-right-container {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.gift-finding {
+  width: 604.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 12px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.businesss-logo-and,
+.cards-from-the,
+.the-all-in-1-choice {
+  margin: 0;
+}
+.the-all-in-1-choice-container {
+  height: 110px;
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.gift-card-use {
+  width: 603px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 12px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.the-recipient-redeems,
+.this-card-is {
+  margin: 0;
+}
+.this-card-is-container1 {
+  width: 100%;
+}
+.this-card-is-container {
+  width: 585.6px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.gift-card-content,
+.heading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gift-card-content {
+  align-self: stretch;
+  gap: 32px;
+  font-size: 16px;
+}
+.heading {
+  flex: 1;
+  gap: 62px;
+}
+.content {
+  width: 660px;
+  flex-direction: row;
+  position: relative;
+  min-width: 660px;
+  max-width: 100%;
+}
+.content,
+.hero,
+.productdescriptionpage {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hero {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 80px 120px;
+  box-sizing: border-box;
+  gap: 60px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #0f0a1b;
+  font-family: Inter;
+}
+.productdescriptionpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  flex-direction: column;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1525px) {
+  .content {
+    flex: 1;
+  }
+  .hero {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .background,
+  .content {
+    min-width: 100%;
+  }
+  .hero {
+    gap: 30px;
+    padding: 34px 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .heading-1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .delivery-options,
+  .packaging-options {
+    flex-wrap: wrap;
+  }
+  .background2,
+  .envelope-info,
+  .surprise-paars-gc-uk-envelop-1-icon {
+    flex: 1;
+  }
+  .actions,
+  .background3,
+  .overlaybordershadow {
+    flex-wrap: wrap;
+  }
+  .background3 {
+    justify-content: center;
+  }
+  .gift-card-content {
+    gap: 16px;
+  }
+  .heading {
+    gap: 31px;
+  }
+  .hero {
+    gap: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .background2,
+  .label5,
+  .label6 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .costs {
+    flex-wrap: wrap;
+  }
+  .button2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading {
+    gap: 15px;
+  }
+  .hero {
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,130 @@
+.allin-choice-feature-icon-item {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.allin-choice-feature-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.the-perfect-gift {
+  position: relative;
+  line-height: 22px;
+}
+.allin-choice-feature-icons-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.vector-icon4 {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.vector-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.over-130-different {
+  position: relative;
+  line-height: 22px;
+}
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.vector-icon5 {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.vector-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.the-perfect-solution {
+  position: relative;
+  line-height: 22px;
+}
+.frame-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.vector-icon6 {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.vector-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.available-as-a {
+  position: relative;
+  line-height: 22px;
+}
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.vector-icon7 {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.vector-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.available-to-order {
+  position: relative;
+  line-height: 22px;
+}
+.allin-choice-features,
+.frame-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.allin-choice-features {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}

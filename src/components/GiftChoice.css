@@ -1,0 +1,266 @@
+.heading-24 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.sorting-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sort-by {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 56px;
+}
+.vector-icon8 {
+  width: 10px;
+  height: 6px;
+  position: relative;
+}
+.sort-icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+}
+.sort-by-btton,
+.sorting {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sort-by-btton {
+  width: 178px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 2px solid #1d1d1d;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  padding: 9px 22px;
+  gap: 64px;
+  text-align: center;
+  font-size: 16px;
+}
+.sorting {
+  align-self: stretch;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  font-size: 32px;
+}
+.a-favorite-brand,
+.choose-a-gift {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.link-terms {
+  position: relative;
+  line-height: 22px;
+  color: #1e54b7;
+}
+.background-icon17 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-42,
+.special-edition {
+  position: relative;
+  line-height: 22px;
+}
+.special-edition {
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 95.5px;
+}
+.heading-52 {
+  border-radius: 24px;
+  background-color: #ede6f0;
+  flex-direction: row;
+  padding: 2px 11px 4px 12px;
+  white-space: nowrap;
+  font-size: 13.3px;
+  color: #48096c;
+}
+.card-containers,
+.card-details1,
+.heading-52,
+.link43 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-details1 {
+  flex-direction: column;
+  gap: 9px;
+}
+.card-containers,
+.link43 {
+  flex-direction: row;
+  padding: 0 12px;
+}
+.link43 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 40px;
+  left: 0;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 29px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon18 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-43,
+.top-seller {
+  position: relative;
+  line-height: 22px;
+}
+.top-seller {
+  text-decoration: none;
+  line-height: 18px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 64px;
+}
+.heading-53 {
+  border-radius: 24px;
+  background-color: #ede6f0;
+  flex-direction: row;
+  padding: 2px 11px 4px 12px;
+  white-space: nowrap;
+  font-size: 13.1px;
+  color: #48096c;
+}
+.heading-4-sephora-gift-card-parent,
+.heading-53,
+.link-inner2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-4-sephora-gift-card-parent {
+  flex-direction: column;
+  gap: 9px;
+}
+.link-inner2 {
+  flex-direction: row;
+  padding: 0 12px;
+}
+.gift-card-grid,
+.link44 {
+  display: flex;
+  box-sizing: border-box;
+}
+.link44 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 332px;
+  left: 854.4px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 29px;
+  gap: 17px;
+}
+.gift-card-grid {
+  align-self: stretch;
+  height: 1216px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px 0;
+  position: relative;
+}
+.gift-choice,
+.sorting-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.sorting-parent {
+  width: 1680px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.gift-choice {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #1e1e1e;
+  font-family: Inter;
+}
+@media screen and (max-width: 1225px) {
+  .gift-choice {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .heading-24 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .sorting {
+    flex-wrap: wrap;
+  }
+  .gift-choice {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-24 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

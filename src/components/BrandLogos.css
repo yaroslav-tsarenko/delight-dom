@@ -1,0 +1,252 @@
+.background12 {
+  height: 8px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  top: 50px;
+  left: 0;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.heading-22 {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.allin-choice-heading {
+  flex: 1;
+  flex-direction: column;
+  gap: 52px;
+}
+.allin-choice-container,
+.allin-choice-content,
+.allin-choice-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.allin-choice-content {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.allin-choice-container {
+  width: 415.6px;
+  flex-direction: column;
+  padding: 150px 0 0;
+  box-sizing: border-box;
+  min-width: 415.6px;
+}
+.gc-uk-home-image-mockuppng-icon {
+  width: 910px;
+  position: relative;
+  border-radius: 20px;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.allin-choice {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.card-buttons {
+  height: 46px;
+  width: 162px;
+}
+.card-buttons1 {
+  height: 46px;
+  flex: 1;
+  min-width: 130px;
+}
+.allin-choice-actions {
+  width: 378px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.adidas-logosvg-icon {
+  height: 40px;
+  width: 40.8px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.airbnb-logosvg-icon,
+.asos-logosvg-icon,
+.boohoo-logosvg-icon {
+  align-self: stretch;
+  width: 63.7px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.decathlon-logosvg-icon,
+.deliveroo-logo-witsvg-icon,
+.foot-locker-logosvg-icon,
+.gardengift-logosvg-icon {
+  align-self: stretch;
+  width: 61px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.deliveroo-logo-witsvg-icon,
+.foot-locker-logosvg-icon,
+.gardengift-logosvg-icon {
+  width: 100.3px;
+}
+.foot-locker-logosvg-icon,
+.gardengift-logosvg-icon {
+  width: 61px;
+}
+.gardengift-logosvg-icon {
+  width: 63.7px;
+}
+.adidas-logosvg-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.justeat-logosvg-icon,
+.love2shop-logosvg-icon,
+.miller-and-carter-steakhouse-l-icon,
+.new-look-logosvg-icon {
+  align-self: stretch;
+  width: 80px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.nike-logosvg-icon,
+.primark-logo-witsvg-icon,
+.riverisland-logosvg-icon,
+.sports-direct-logosvg-icon {
+  align-self: stretch;
+  width: 49.3px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.primark-logo-witsvg-icon,
+.riverisland-logosvg-icon,
+.sports-direct-logosvg-icon {
+  width: 100.3px;
+}
+.riverisland-logosvg-icon,
+.sports-direct-logosvg-icon {
+  width: 80px;
+}
+.justeat-logosvg-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.brand-logo-container,
+.brand-logos {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.brand-logo-container {
+  flex: 1;
+  background-color: #1d1d1d;
+  flex-direction: column;
+  padding: 80px 120px;
+  gap: 32px;
+}
+.brand-logos {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 80px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1575px) {
+  .allin-choice-container,
+  .gc-uk-home-image-mockuppng-icon {
+    flex: 1;
+  }
+  .allin-choice {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .justeat-logosvg-parent {
+    justify-content: center;
+  }
+  .brand-logo-container {
+    padding: 52px 60px;
+    box-sizing: border-box;
+  }
+  .brand-logos {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .heading-22 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .allin-choice-container {
+    min-width: 100%;
+  }
+  .adidas-logosvg-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .brand-logo-container {
+    gap: 16px;
+    padding: 34px 30px;
+    box-sizing: border-box;
+  }
+  .brand-logos {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-22 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .allin-choice-heading {
+    gap: 26px;
+  }
+  .allin-choice-container {
+    padding-top: 97px;
+    box-sizing: border-box;
+  }
+}

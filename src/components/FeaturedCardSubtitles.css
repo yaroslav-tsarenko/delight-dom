@@ -1,0 +1,42 @@
+.all-in-1-choice,
+.gift-card {
+  margin: 0;
+}
+.all-in-1-choice-gift-container {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+.background-icon {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.featured-card-subtitle-backgro {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.featured-card-subtitles {
+  width: 274px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+  text-align: left;
+  font-size: 24px;
+  color: #0f0a1b;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .all-in-1-choice-gift-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

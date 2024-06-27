@@ -1,0 +1,222 @@
+.find-the-widest,
+.gift-cards-at {
+  margin: 0;
+}
+.find-the-widest-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.vector-icon {
+  height: 9.9px;
+  width: 15.6px;
+  position: relative;
+}
+.convenient-fast-and {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: calc(100% - 33px);
+  flex-shrink: 0;
+}
+.corporate-gifting-icons {
+  width: 464.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 17px;
+  max-width: 100%;
+}
+.vector-icon1 {
+  height: 9.9px;
+  width: 15.6px;
+  position: relative;
+}
+.receive-digital-gift {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: calc(100% - 33px);
+  flex-shrink: 0;
+}
+.corporate-gifting-icons1 {
+  width: 468.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 17px;
+  max-width: 100%;
+}
+.vector-icon2 {
+  height: 9.9px;
+  width: 15.6px;
+  position: relative;
+}
+.physical-gift-cards {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: calc(100% - 33px);
+  flex-shrink: 0;
+}
+.corporate-gifting-icons2 {
+  width: 481.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 17px;
+  max-width: 100%;
+}
+.vector-icon3 {
+  height: 9.9px;
+  width: 15.6px;
+  position: relative;
+}
+.find-the-perfect {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: calc(100% - 31px);
+}
+.corporate-gifting-icons3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px;
+  max-width: 100%;
+}
+.corporate-gifting {
+  width: 545.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  max-width: 100%;
+  font-size: 16px;
+}
+.gift-card-action-links {
+  height: 46px;
+  width: 183px;
+}
+.gift-card-action-links1 {
+  height: 46px;
+  flex: 1;
+  min-width: 129px;
+}
+.gift-card-actions,
+.hero-content {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.gift-card-actions {
+  width: 430px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 49px;
+}
+.hero-content {
+  flex-direction: column;
+  justify-content: center;
+  gap: 32px;
+  min-width: 593px;
+}
+.gc-uk-home-image-bannerpng-icon {
+  height: 500px;
+  flex: 1;
+  position: relative;
+  border-radius: 16px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 665px;
+}
+.hero-container,
+.hero1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.hero-container {
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 120px;
+  gap: 64px;
+}
+.hero1 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 80px;
+  text-align: left;
+  font-size: 48px;
+  color: #0f0a1b;
+  font-family: Inter;
+}
+@media screen and (max-width: 1575px) {
+  .hero-content {
+    flex: 1;
+  }
+  .hero-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .gc-uk-home-image-bannerpng-icon,
+  .hero-content {
+    min-width: 100%;
+  }
+  .hero-container {
+    gap: 32px;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .find-the-widest-container {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .hero-content {
+    gap: 16px;
+  }
+  .hero-container {
+    gap: 16px;
+    padding: 52px 30px;
+    box-sizing: border-box;
+  }
+  .hero1 {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .find-the-widest-container {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .gift-card-actions {
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+}
